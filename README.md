@@ -1,4 +1,4 @@
-# Inception Hiring Case
+# Looking for Lua Developers
 
 Create the PRIVATE repository for this case and follow these steps:
 
